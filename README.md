@@ -1,2 +1,7 @@
-# dicoding-loginpage
-This is a simple login page application from Dicoding's Intro to Software Development course. This application and demonstration of HTML, CSS, and Javascript has helped me understand and combine the 3 languages into 1 application.
+# Simple Login Application
+This is an application for logging in using HTML, CSS, and JavaScript. I acquired this program from dicoding's intro to modifying software course.
+
+How the login works:
+1. Enter email and password
+2. If input does not contain "@" symbol, retry until occurance
+3. If Correct, send to Home Menu
